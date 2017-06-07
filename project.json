@@ -1,0 +1,8 @@
+{
+  "name": "game",
+  "description": "game",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::055809122680:role/game_lambda_function",
+  "environment": {}
+}

@@ -1,0 +1,12 @@
+{
+  "name": "sendTextMessage",
+  "version": "1.0.0",
+  "description": "Send function for game",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Blake Guilloud",
+  "license": "ISC",
+  "dependencies": {
+    "node-bandwidth": "^2.3.2"
+  }
+}
