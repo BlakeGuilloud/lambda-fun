@@ -1,6 +1,6 @@
 {
   "name": "lambda-fun",
-  "description": "lambda-fun",
+  "description": "lambdaa-fun",
   "memory": 128,
   "timeout": 5,
   "role": "arn:aws:iam::055809122680:role/game_lambda_function",
